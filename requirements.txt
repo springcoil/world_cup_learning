@@ -4,3 +4,4 @@ scikit-learn
 pygal
 # does this installs everything needed for ipython notebook?:
 ipython
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
